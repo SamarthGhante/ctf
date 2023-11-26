@@ -1,0 +1,30 @@
+/* app.css */
+.App {
+  text-align: center;
+}
+
+.news-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.news-image {
+  width: 400px;
+  height: auto;
+  background-size: cover;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.title {
+  margin-top: 10px;
+  font-weight: bold;
+  color: white;
+  border: 1px solid black;
+  background-color: red;
+  padding: 2px;
+}
