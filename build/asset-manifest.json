@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.16c8292f.css",
-    "main.js": "/static/js/main.950b6b80.js",
+    "main.css": "/static/css/main.6b3ff459.css",
+    "main.js": "/static/js/main.0cb3852e.js",
     "static/js/27.244d8dd6.chunk.js": "/static/js/27.244d8dd6.chunk.js",
     "static/media/robot_thinking.jpg": "/static/media/robot_thinking.10666deb21b88065b045.jpg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.16c8292f.css",
-    "static/js/main.950b6b80.js"
+    "static/css/main.6b3ff459.css",
+    "static/js/main.0cb3852e.js"
   ]
 }
